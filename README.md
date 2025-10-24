@@ -54,7 +54,7 @@ MOV R7
 ```
 ## Output:
 The results of addition, subtraction, multiplication, and division operations will be stored in memory locations 40H and 41H as specified in the program.
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/55999dcd-13b6-4cc4-82d4-63e2701c084e" />
+<img width="1552" height="821" alt="Screenshot 2025-10-24 133306" src="https://github.com/user-attachments/assets/3ef187fe-263b-47d5-8068-73dde44940aa" />
 
 ## Result:
 The 8-bit arithmetic operations using the 8051 microcontroller have been successfully executed and verified using Keil software.
